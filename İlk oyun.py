@@ -1,5 +1,6 @@
 import time
 import random
+print("                                     'Sayı Tahmini Oyunu'")
 name = input("Lütfen istediğiniz kullanıcı adını giriniz: ")
 time.sleep(1)
 print("""////////////////////////////////////////////////////////////////////////////////////////////////////////
